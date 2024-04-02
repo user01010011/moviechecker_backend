@@ -1,3 +1,5 @@
+# moviechecker_backend/check_email.py
+
 import os
 import requests
 from datetime import datetime, timedelta
